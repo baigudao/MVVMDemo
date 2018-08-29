@@ -17,7 +17,7 @@ import java.util.List;
  */
 
 public class NewsVM implements BaseLoadListener<SimpleNewsBean> {
-    
+
     private static final String TAG = "NewsVM";
     private INewsModel mNewsModel;
     private INewsView mNewsView;
